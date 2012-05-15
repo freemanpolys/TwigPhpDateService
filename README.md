@@ -1,4 +1,5 @@
 TwigPhpDateService
 ==================
 
-Symfony service-It's provides some PHP Date functions usage in Twig templates
+Symfony service-
+It's provides  PHP date() and mktime() functions usage in Twig templates
