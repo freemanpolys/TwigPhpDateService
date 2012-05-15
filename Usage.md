@@ -1,4 +1,5 @@
 Configuration :
+
 -In ProjetName/BundleName/Ressources/config/services.yml
  	services:
 	    project_bundle.custom_servicename:
@@ -6,6 +7,7 @@ Configuration :
 
 
 Usage:
+
 -In controller :
     public sampleAction(){
 	$tools = $this->container->get('project_bundle.custom_servicename');
